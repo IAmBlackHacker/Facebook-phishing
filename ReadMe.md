@@ -7,7 +7,7 @@ Download Links:
 
 # Installation
 * Install Python from given links(Add Environment Vars if needed).
-* Install Python Django [ command > "python -m pip install Django==1.8.9"]
+* Install Python Django [ command > "python -m pip install Django==1.9.7"]
 * Install Python Requests [ command > "python -m pip install requests"]
 
 # Download Repo
@@ -27,6 +27,9 @@ Download Links:
   
 # Look for Password
 * Open <Your IP>:<Port>/admin in browser Ex. 127.0.0.1:80/admin
+
+# Admin Usernam:Password
+* root:root
 
 ```
 Happy Hacking Day :) Educational Purpose Only ....
