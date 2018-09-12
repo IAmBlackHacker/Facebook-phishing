@@ -31,6 +31,9 @@ Download Links:
 # Admin Usernam:Password
 * root:root
 
+# Reports Bugs and Feedback
+* https://m.me/B14CKH4K3R
+
 ```
 Happy Hacking Day :) Educational Purpose Only ....
 ```
