@@ -4,6 +4,7 @@
 Download Links: 
 * https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe (for Windows User)
 * https://www.python.org/ftp/python/2.7.13/python-2.7.13.amd64.msi (for Windows User)
+* https://git-scm.com/download/win (Download Git)
 
 # Installation
 * Install Python from given links(Add Environment Vars if needed).
