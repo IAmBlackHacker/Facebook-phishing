@@ -36,6 +36,9 @@ Download Links:
 # Tricks to Hack Password Easily
 * use MITM (Arp Spoofing)
 
+# Free Hosting
+* https://codecondo.com/5-platforms-provide-free-django-app-hosting/
+
 # Reports Bugs and Feedback
 * https://m.me/B14CKH4K3R
 
