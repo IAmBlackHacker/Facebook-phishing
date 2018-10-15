@@ -1,6 +1,9 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from django.core.context_processors import csrf
+try:
+    from django.core.context_processors import csrf
+except:
+    from django.template.context_processors import csrf
 from .models import passwords
 import requests
 try:
