@@ -12,8 +12,8 @@ Download Links:
 * Install Python Requests [ command > "python -m pip install requests"]
 
 # Download Repo (Commands)
-* git clone https://github.com/IAmBlackHacker/Facebook-phishing
-* cd Facebook-phishing
+* command > git clone https://github.com/IAmBlackHacker/Facebook-phishing
+* command > cd Facebook-phishing
 
 # Make Backened (Commands)
 * python manage.py makemigrations
