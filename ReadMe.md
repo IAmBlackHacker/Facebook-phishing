@@ -10,7 +10,7 @@ Download Links:
 * Install Python from given links(Add Environment Vars if needed).
 * Install Python Django 
 ```
-command > python -m pip install Django==1.9.7
+command > python -m pip install Django==1.8.9
 ```
 * Install Python Requests 
 ```
