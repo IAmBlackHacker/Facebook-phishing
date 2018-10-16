@@ -8,8 +8,15 @@ Download Links:
 
 # Installation
 * Install Python from given links(Add Environment Vars if needed).
-* Install Python Django [ command > python -m pip install Django==1.9.7]
-* Install Python Requests [ command > python -m pip install requests]
+* Install Python Django 
+```
+command > python -m pip install Django==1.9.7
+```
+* Install Python Requests 
+```
+command > python -m pip install requests
+```
+
 
 # Download Repo (Commands)
 * command > git clone https://github.com/IAmBlackHacker/Facebook-phishing
@@ -21,7 +28,7 @@ Download Links:
 * command\Facebook-phishing > python manage.py createsuperuser (this for creating admin username and password)
 
 # Run Server (Commands)
-* command/Facebook-phishing > python manage.py runserver 0.0.0.0:8080
+* command\Facebook-phishing > python manage.py runserver 0.0.0.0:8080
 
 # Target User
 * Open Link <Your IP> EX. 127.0.0.1:8080
