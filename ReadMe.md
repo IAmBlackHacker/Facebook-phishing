@@ -1,4 +1,9 @@
 # Welcome To Phishing FaceBook
+
+```
+For educational purpose only ....
+```
+
 ## [Alternative - Use blackeye tool in Kali Linux](https://kalilinuxtutorials.com/blackeye-complete-phishing-tool/)
 ## Required Python2 or Python3
 
@@ -51,5 +56,5 @@ command > python -m pip install requests
 * https://m.me/B14CKH4K3R
 
 ```
-Happy Hacking Day :) Educational Purpose Only ....
+Happy Hacking Day :)
 ```
