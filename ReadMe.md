@@ -1,4 +1,5 @@
 # Welcome To Phishing FaceBook
+## [Alternative - Use blackeye tool in Kali Linux](https://kalilinuxtutorials.com/blackeye-complete-phishing-tool/)
 ## Required Python2 or Python3
 
 Download Links: 
