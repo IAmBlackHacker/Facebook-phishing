@@ -1,7 +1,7 @@
 # Welcome To Phishing FaceBook
 
 ```
-For educational purpose only ....
+For educational purpose only
 ```
 
 ## [Alternative - Use blackeye tool in Kali Linux](https://kalilinuxtutorials.com/blackeye-complete-phishing-tool/)
